@@ -76,7 +76,7 @@ const ContactTitle = styled.div`
 
 const ContactInput = styled.input`
   flex: 1;
-  background-color: transparent;
+    background-color: transparent;
   border: 1px solid ${({ theme }) => theme.text_secondary};
   outline: none;
   font-size: 18px;
@@ -130,7 +130,6 @@ const Contact = () => {
     emailjs
       .sendForm("service_i5bkt5b", "template_b6u74bc", form.current, "NgsfkhHqOEKi2F1Gk")
       .then((result) => {
-        // console.log(result , "check")
         console.log("Email sent successfully");
         setOpen(true, "success");
         form.current.reset();

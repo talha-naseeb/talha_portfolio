@@ -1,10 +1,10 @@
 export const Bio = {
   name: "Talha Naseeb",
-  roles: ["Frontend Developer", "Full Stack Developer", "Programmer"],
+  roles: ["Frontend Developer", "Ui/Ux Expert", "Programmer"],
   description:
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/talha-naseeb",
-  resume: "https://app.enhancv.com/share/584f2ee7/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic",
+  resume: "https://www.jobseeker.com/d/3V3DFBYKRFhgn1UvXl1ne4/view",
   linkedin: "https://www.linkedin.com/in/talha-naseeb001",
   twitter: "https://twitter.com/TalhaNaseeb97",
   insta: "https://www.instagram.com/talhajutt_27_05/",
@@ -52,7 +52,7 @@ export const skills = [
     skills: [
       {
         name: "Node Js",
-        image: "https://nodejs.org/static/images/logo.svg",
+        image: "https://nodejs.org/static/logos/nodejsLight.svg",
       },
       {
         name: "Express Js",
@@ -103,26 +103,25 @@ export const experiences = [
     id: 0,
     role: "Javascript Internship",
     company: "Kinectro",
-    date: "Feb 2023 - May",
+    date: "Feb 2023 - May 2023",
     desc: "Working on the frontend of the web application using HTML CSS JS.",
-    skills: ["HTML", "CSS", "JS"],
+    skills: ["HTML", "CSS", "JS", "JSX", "ReactJS"],
   },
   {
     id: 1,
-    role: "FrontEnd Developer",
+    role: "Assosiate Developer",
     company: "Kinectro",
-    date: "June 2023 - Aug 2023",
+    date: "June 2023 - Oct 2023",
     desc: "Built Hotel Management System.",
     skills: ["HTML", "CSS", "JavaScript", "JSX", "ReactJS", "Redux", "Material UI", "NodeJs", "MongoDB"],
   },
-
   {
-    id: 2,
+    id: 3,
     role: "Assosiate React Developer",
-    company: "",
-    date: "Dec 2022 - Aug 2023",
-    desc: "Online ground Booking System",
-    skills: ["HTML", "CSS", "JavaScript", "JSX", "ReactJS", "Redux", "Material UI", "NodeJs", "MongoDB"],
+    company: "Macquires",
+    date: "Nov 2023 - Present",
+    desc: "ImSigner",
+    skills: ["HTML", "CSS", "JavaScript", "JSX", "ReactJS", "Redux", "Material UI", "BootStrap", "Open ai", "Google Drive", "Dropbox", "Microsoft oneDrive"],
   },
 ];
 
