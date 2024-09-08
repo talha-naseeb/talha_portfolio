@@ -1,7 +1,7 @@
 {
   "name": "talha-naseeb-portfolio",
   "version": "0.1.0",
-  "homepage": "https://github.com/talha-naseeb",
+  "homepage": ".",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
