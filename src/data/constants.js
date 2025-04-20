@@ -4,7 +4,7 @@ export const Bio = {
   description:
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/talha-naseeb",
-  resume: "https://www.jobseeker.com/d/7j07iNCp39GHNZKNa2Mb7O/view",
+  resume: "https://www.jobseeker.com/d/5iMrHEW3lyGvrg7LEPCPRH/view",
   linkedin: "https://www.linkedin.com/in/talha-naseeb001",
   twitter: "https://twitter.com/TalhaNaseeb97",
   insta: "https://www.instagram.com/talhajutt_27_05/",
