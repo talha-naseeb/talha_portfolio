@@ -226,6 +226,17 @@ export const projects = [
     webapp: "https://ai-code-portfolio.vercel.app/",
     image: require("../images/syntaxAi.png"),
   },
+  {
+    id: 8,
+    title: "Developer Tracking App",
+    date: "2025",
+    description:
+      "Developer-centric application to monitor coding activities, project progress, and productivity metrics. Built with React Vite and Tailwind CSS, featuring responsive design and seamless user experience.",
+    tags: ["React Vite", "Tailwind CSS", "Rest Api's", "Responsive Design", "vercel"],
+    category: "web app",
+    webapp: "https://devloper-system.vercel.app/",
+    image: require("../images/management.png"),
+  },
 ];
 
 export const TimeLineData = [
